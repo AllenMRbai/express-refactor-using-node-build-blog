@@ -4,4 +4,4 @@
 
 该项目使用 Express 框架重构原来的项目。
 
-该项目的前端页面仔前一个项目内。
+该项目的前端页面仔前一个项目内 [using-node-build-blog](https://github.com/AllenMRbai/using-node-build-blog)。
